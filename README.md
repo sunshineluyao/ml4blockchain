@@ -20,6 +20,10 @@
 
 ### Literature Reveiw
 
+<p align="center">
+    Table 1 and Table 2 showcase a curated selection of literature that intersects machine learning and blockchain.
+</p>
+
 <table align="center">
     <tr>
         <td>
@@ -32,6 +36,7 @@
         </td>
     </tr>
 </table>
+
 
 
 <table align="center">

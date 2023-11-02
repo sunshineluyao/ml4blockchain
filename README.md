@@ -19,3 +19,17 @@
 
 
 ### Literature Reveiw
+
+<table align="center">
+    <tr>
+        <td>
+            <img src="diagrams/Table1.png" alt="Table1" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="diagrams/Table2.png" alt="Table2" />
+        </td>
+    </tr>
+</table>
+

@@ -5,10 +5,11 @@
 - [At a Glance](#at-a-glance)
 - [Literature Review](#literature-review)
 - [Future Research Directions](#future-research-directions)
-- [Data](data/Readme.md)
-- [Code](code/Readme.md)
-- [Figures](figs/Readme.md)
-- [Diagrams](diagrams/Readme.md)
+- folders
+    - [Data](data/Readme.md)
+    - [Code](codes/Readme.md)
+    - [Figures](figs/Readme.md)
+    - [Diagrams](diagrams/Readme.md)
 
 
 ### At a Glance

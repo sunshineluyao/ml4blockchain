@@ -2,11 +2,13 @@
 ## Supplementary Material for "Machine Learning for Blockchain: Literature Review and Open Research Questions."
 
 ## Table of Contents
-- [ml4blockchain](#ml4blockchain)
-  - [Supplementary Material for "Machine Learning for Blockchain: Literature Review and Open Research Questions."](#supplementary-material-for-machine-learning-for-blockchain-literature-review-and-open-research-questions)
-    - [At a Glance](#at-a-glance)
-    - [Literature Review](#literature-review)
-    - [Future Research Directions](#future-research-directions)
+- [At a Glance](#at-a-glance)
+- [Literature Review](#literature-review)
+- [Future Research Directions](#future-research-directions)
+- [Data](data/Readme.md)
+- [Code](code/Readme.md)
+- [Figures](figs/Readme.md)
+- [Diagrams](diagrams/Readme.md)
 
 
 ### At a Glance

@@ -62,4 +62,8 @@
     Figure 1 and 2 further represent the word cloud of the title and abstract of the literature in Table 1 and Table 2.
 </p>
 
+### Future Research Directions
+<img src="diagrams/ML4Blockchain_future.png" alt="Research Trajectories in Blockchain and Machine Learning">
+
+<p>Additionally, we chart prospective research trajectories, weaving together blockchain and machine learning in niche domains like causal machine learning, reinforcement mechanism design, and cooperative AI. These intersections aim to cultivate interdisciplinary pursuits in AI for Science, catering to a broad spectrum of stakeholders.</p>
 

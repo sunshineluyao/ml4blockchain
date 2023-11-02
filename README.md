@@ -33,3 +33,28 @@
     </tr>
 </table>
 
+
+<table align="center">
+    <tr>
+        <td>
+            <img src="figs/title.png" alt="Word Cloud of Literature Titles" width="300" />
+        </td>
+        <td>
+            <img src="figs/abstract.png" alt="Word Cloud of Literature Abstracts" width="300" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <b>Figure 1: The word cloud of literature titles</b>
+        </td>
+        <td align="center">
+            <b>Figure 2: The word cloud of literature abstracts</b>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
+    Figure 1 and 2 further represent the word cloud of the title and abstract of the literature in Table 1 and Table 2.
+</p>
+
+

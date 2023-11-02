@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <td>
-            <img src="diagrams/literature_Table2.png" alt="Table2" />
+            <img src="diagrams/literature_Table22.png" alt="Table2" />
         </td>
     </tr>
 </table>

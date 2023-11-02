@@ -6,7 +6,7 @@
 - [Literature Review](#literature-review)
 - [Future Research Directions](#future-research-directions)
 - folders
-    - [Data](data/Readme.md)
+    - [Data](data/)
     - [Code](codes/Readme.md)
     - [Figures](figs/Readme.md)
     - [Diagrams](diagrams/Readme.md)
